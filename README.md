@@ -1,7 +1,7 @@
 ### Hi there, I'm Ryan! Better known on github as Rainandray-netizen
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/RainandrayNet?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRainandray-netizen&screen_name=RainandrayNet)
-[![Linkedin Profile](https://img.shields.io/badge/Linkedin-Connect-blue?style=for-the-badge&logo=appveyor)](www.linkedin.com/in/rainandray-netizen)
+[![Linkedin Profile](https://img.shields.io/badge/Linkedin-Connect-blue?style=for-the-badge&logo=appveyor)](https://www.linkedin.com/in/rainandray-netizen)
 ## I'm a web, app, and software developer
 
 - Currently brushing up on Redux
