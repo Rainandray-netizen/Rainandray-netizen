@@ -4,10 +4,10 @@
 [![Linkedin Profile](https://img.shields.io/badge/Linkedin-Connect-blue?style=for-the-badge&logo=appveyor)](https://www.linkedin.com/in/rainandray-netizen)
 ## I'm a web, app, and software developer
 
-- Currently working on a TTRPG Web-App to allow remote play on a shared game board
-- Javascript wizard in training (/￣ー￣)/~~☆’.･.･:★’.･.･:☆
-- 2020 goals: Commit something every day!
-- Fun fact: I keep tarantulas
+- 🎲 Currently working on a TTRPG Web-App to allow remote play on a shared game board
+- 🧙🏼‍♂️ Javascript wizard in training
+- 🎯 2020 goals: Commit something every day!
+- 🕷 Fun fact: I keep tarantulas
 
 ### Tools and Languages:
 
