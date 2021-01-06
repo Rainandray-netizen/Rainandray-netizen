@@ -6,7 +6,7 @@
 
 - 🎲 Currently working on a TTRPG Web-App to allow remote play on a shared game board
 - 🧙🏼‍♂️ Javascript wizard in training
-- 🎯 2020 goals: Commit something every day!
+- 🎯 2021 goals: Commit something every day!
 - 🕷 Fun fact: I keep tarantulas
 
 ### Tools and Languages:
